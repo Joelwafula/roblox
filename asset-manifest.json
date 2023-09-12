@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roblox/static/css/main.51b64d37.css",
+    "main.js": "/roblox/static/js/main.c321323b.js",
+    "static/js/787.8d3f1b66.chunk.js": "/roblox/static/js/787.8d3f1b66.chunk.js",
+    "index.html": "/roblox/index.html",
+    "main.51b64d37.css.map": "/roblox/static/css/main.51b64d37.css.map",
+    "main.c321323b.js.map": "/roblox/static/js/main.c321323b.js.map",
+    "787.8d3f1b66.chunk.js.map": "/roblox/static/js/787.8d3f1b66.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51b64d37.css",
+    "static/js/main.c321323b.js"
+  ]
+}
